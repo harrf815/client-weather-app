@@ -1,7 +1,6 @@
 {
   "name": "web-server",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -13,5 +12,15 @@
     "express": "^4.17.1",
     "hbs": "^4.1.2",
     "request": "^2.88.2"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harrf815/client-weather-app.git"
+  },
+  "bugs": {
+    "url": "https://github.com/harrf815/client-weather-app/issues"
+  },
+  "homepage": "https://github.com/harrf815/client-weather-app#readme",
+  "description": ""
 }
